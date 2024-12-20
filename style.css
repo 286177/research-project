@@ -59,13 +59,9 @@ SECTIONS
 }
 .bg-red {
     background: rgb(135,206,235);
-     background: linear-gradient(90deg, rgba(135,206,235,1) 17%, rgba(67,155,232,1) 97%); 
+    background: linear-gradient(90deg, rgba(135,206,235,1) 17%, rgba(67,155,232,1) 97%); 
 }
-.bg-orange {
-  background: rgb(135,235,160);
-  background: linear-gradient(90deg, rgba(135,235,160,1) 9%, rgba(67,232,97,1) 97%); 
-}
-.bg-white {
-  background: rgb(135,235,160);
-  background: linear-gradient(90deg, rgba(135,235,160,1) 9%, rgba(67,232,97,1) 97%); 
+.bg-yellow {
+  background: rgb(135,206,235);
+  background: linear-gradient(90deg, rgba(135,206,235,1) 17%, rgba(67,155,232,1) 97%); 
 }
